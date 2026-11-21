@@ -1,0 +1,7 @@
+cif,axis,old_label,new_label,reason
+FEVNOK_ASR_pacman,gas,yes,unknown,T1: the extraction rule requires demonstrated reversibility; the model reason states it is not demonstrated
+FEXHOG_ASR_pacman,gas,yes,unknown,T1: same publication and evidence as FEVNOK
+COZMIQ02_ASR_pacman,temperature,no,yes,"T5: same paper and evidence as COZMIQ01 (temperature yes); the prompt counts thermal activation as a valid temperature test when the paper reports a crystallographically resolved phase transition (SIFSIX-18-Ni alpha to beta at 85 C under vacuum, 13.4% cell-volume reduction, Le Bail/Rietveld; reverts with water and regenerates by temperature swing)"
+CAJHUS03_ASR_pacman,gas,yes,none,the gas Yes label rests on high-pressure single-crystal diffraction (GPa range) with Ne as pressure-transmitting medium; no gas adsorption experiment (DOI 10.1002/cphc.201600854)
+CAJHUS04_ASR_pacman,gas,yes,none,the gas Yes label rests on high-pressure single-crystal diffraction (GPa range) with Ne as pressure-transmitting medium; no gas adsorption experiment (DOI 10.1002/cphc.201600854)
+JEXXAM07_ASR_pacman,gas,yes,none,the gas Yes label rests on high-pressure single-crystal diffraction (GPa range) with Ne as pressure-transmitting medium; no gas adsorption experiment (DOI 10.1002/cphc.201600854)

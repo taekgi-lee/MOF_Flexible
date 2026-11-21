@@ -1,0 +1,93 @@
+{
+ "thresholds": {
+  "no": 0.1,
+  "yes": 0.85
+ },
+ "targets": {
+  "cifs": 5355,
+  "materials": 3840
+ },
+ "categories": {
+  "noseed": 4518,
+  "no": 523,
+  "conflict": 162,
+  "yes": 152
+ },
+ "noseed": {
+  "cifs": 4518,
+  "materials": 3599
+ },
+ "noseed_no": {
+  "cifs": 296,
+  "materials": 225
+ },
+ "noseed_yes": {
+  "cifs": 17,
+  "materials": 16
+ },
+ "noseed_unsure": {
+  "cifs": 4205,
+  "materials": 3372
+ },
+ "noseed_tier2": {
+  "cifs": 13,
+  "materials": 12
+ },
+ "noseed_gt080": {
+  "cifs": 30,
+  "materials": 28
+ },
+ "all_no": {
+  "cifs": 737,
+  "materials": 353
+ },
+ "all_yes": {
+  "cifs": 151,
+  "materials": 47
+ },
+ "all_unsure": {
+  "cifs": 4467,
+  "materials": 3484
+ },
+ "by_category": {
+  "noseed": {
+   "no": 296,
+   "yes": 17,
+   "n": 4518,
+   "median_P": 0.289
+  },
+  "no": {
+   "no": 408,
+   "yes": 0,
+   "n": 523,
+   "median_P": 0.023
+  },
+  "conflict": {
+   "no": 33,
+   "yes": 55,
+   "n": 162,
+   "median_P": 0.571
+  },
+  "yes": {
+   "no": 0,
+   "yes": 79,
+   "n": 152,
+   "median_P": 0.853
+  }
+ },
+ "tier_material_overlap": 0,
+ "tier1_all10_forests_above_0_85": null,
+ "tier1_single_forest_counts": [
+  15,
+  16,
+  18,
+  17,
+  17,
+  16,
+  16,
+  16,
+  19,
+  16
+ ],
+ "tier1_pass_all10": 11
+}
